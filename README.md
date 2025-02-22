@@ -114,6 +114,37 @@ This repository contains the `HumanResources` Solidity smart contract, which is 
   Emitted when an employee switches their preferred payment currency.
 
 ---
+### Setting Up and Running the Project
+
+- **`Install Foundry`**
+
+  To set up Foundry, run the following command:  
+  ```sh
+  curl -L https://foundry.paradigm.xyz | bash
+  ```
+  This will download and install Foundry on your system.
+
+- **`Update Foundry to the latest version`**
+  ```sh
+  foundryup
+  ```
+  This ensures you are using the latest features and fixes.
+
+- **`Building the Project`**
+
+  Compile the smart contracts:
+  ```sh
+  forge build
+  ```
+  This command compiles all Solidity files and generates necessary artifacts.
+
+- **`Running Tests`**
+
+  Execute all test cases:
+  ```sh
+  forge test
+  ```
+---
 
 ### Acknowledgments
 
