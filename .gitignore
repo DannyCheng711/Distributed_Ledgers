@@ -2,4 +2,10 @@
 .env
 deployed-address.txt
 remappings.txt
-submit-transcation.txt
+submit-transcation.txt.env
+lib/
+cache/
+out/
+broadcast/
+*.DS_Store
+
