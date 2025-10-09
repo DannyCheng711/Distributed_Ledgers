@@ -1,0 +1,5 @@
+# .gitignore
+.env
+deployed-address.txt
+remappings.txt
+submit-transcation.txt
