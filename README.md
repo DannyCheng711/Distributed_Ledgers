@@ -116,6 +116,9 @@ This repository contains the `HumanResources` Solidity smart contract, which is 
 ---
 ### Setting Up and Running the Project
 
+- **`Update .env`**
+  Copy .env.example to .env and fill in your own keys and contract addresses.
+
 - **`Install Foundry`**
 
   To set up Foundry, run the following command:  
