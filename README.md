@@ -1,4 +1,4 @@
-# HumanResources Smart Contract
+# Human Resources Payroll Smart Contract
 
 This repository contains the `HumanResources` Solidity smart contract, which is a payroll system for managing employee salaries. It offers functionality to register employees, terminate them, update their salary balances, and withdraw their salaries in either ETH or USDC.
 
